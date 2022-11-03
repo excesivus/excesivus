@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif" width="200" />
-    <h1 align="center">Hello 👋, I'm excesivus</h1>
-    <h3 align="center"> I am passionate about trucks and programming, I currently work as a truck driver and I am studying computer engineering degree at the Open University of Catalonia (UOC), in parallel I am taking a Front-End Tokio school course </h3>
+    <h1 align="center">Hello 👋, I'm excesivus</h1> 
+    <h3 align="center"> I am passionate about trucks and programming, I currently work as a truck driver and I am studying  computer  engineering degree at the Open University of Catalonia (UOC), in parallel I  am  taking  a  Front-End Tokio school course </h3>
 
 </div>
 <div id="badges" align="center">
